@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Alaames
-- 👀 I’m interested in Computer science and IT
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in Computer science and AI
   
 
 
